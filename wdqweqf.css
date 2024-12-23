@@ -3,12 +3,14 @@ body{
 }
 .butt {
     background: #96ffed;
-    font-size: 10px;
+    font-size: 30px;
     padding: 5px 5px;
 }
 .fog{
  display: block;
- text-align: center;   
+ text-align: center;  
+ font-size: 30px;
+
 }
 #butthold{
     text-align: center;
