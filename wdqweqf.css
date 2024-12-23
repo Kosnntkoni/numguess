@@ -1,0 +1,15 @@
+body{
+    background: rgba(253, 66, 197, 0.753);
+}
+.butt {
+    background: #96ffed;
+    font-size: 10px;
+    padding: 5px 5px;
+}
+.fog{
+ display: block;
+ text-align: center;   
+}
+#butthold{
+    text-align: center;
+}
